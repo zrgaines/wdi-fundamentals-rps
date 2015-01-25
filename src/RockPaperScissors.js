@@ -22,7 +22,7 @@ function randomPlay() {
 function getPlayerMove(move) {
     // If a move is given, your expression should evaluate to that move.
     // If move is not specified / is null, your expression should run getInput()
-    return move || getInput();
+    return /* Your Expression */;
 }
 
 function getComputerMove(move) {
