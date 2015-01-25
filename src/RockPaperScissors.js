@@ -1,6 +1,6 @@
 // Provided functions - please do not edit these!
 function randomPlay() {
-    randomNumber = Math.random();
+    var randomNumber = Math.random();
     if (randomNumber < 0.33) {
         return "Rock";
     } else if (randomNumber < 0.66) {
