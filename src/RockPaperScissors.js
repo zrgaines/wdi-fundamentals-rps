@@ -45,7 +45,6 @@ function playToFive() {
     // This function should continue to play Rock Paper Scissors until either the player or the computer has won five times.
 
 
-
     // After each 'round', display some text in the console indicating who played what, who won, and what the current scoreboard looks like.
     // For example,
     //  console.log("Player chose " + playerMove + " while Computer chose " + computerMove);
