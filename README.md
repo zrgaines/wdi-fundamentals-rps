@@ -5,5 +5,3 @@
 ## Objectives
 
 Make a game that plays 'Rock, Paper, Scissors' in the console.
-
-Can you hear me Travis? It's me, Github.
