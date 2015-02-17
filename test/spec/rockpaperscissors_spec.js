@@ -66,7 +66,7 @@ describe("#getWinner", function() {
 
 describe("#playToFive", function() {
   it ("should end the game once either the player or the computer has won 5 times.", function(){
-    var result = playtoFive();
+    var result = playToFive();
     expect(result[0] == 5 || result[1] == 5).toEqual(true);
   });
 });
